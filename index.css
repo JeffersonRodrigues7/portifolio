@@ -16,8 +16,9 @@ body {
   padding-bottom: 10px;
 }
 
-#my_github img {
+.socials img {
   margin-top: 10px;
+  margin-left: 10px;
 }
 
 #introduction h1,
